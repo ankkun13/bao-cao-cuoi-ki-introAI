@@ -56,9 +56,10 @@ PNEUMONIA/
 
 ## 🧠 Huấn luyện mô hình
 
-Mở [Notebook](pneumonia_detection.ipynb)
+- Mở [Notebook](pneumonia_detection.ipynb)
 
-Chạy tuần tự tất cả Cell code
+- Chạy tuần tự tất cả Cell code
+
 ---
 
 ## 📈 Đánh giá mô hình
