@@ -78,6 +78,16 @@ Dự án hỗ trợ:
 - DenseNet-121
 - Transfer learning (MobileNetV2, ResNet50…)
 
+---
+
+## Demo
+- Truy cập [Web App pháp hiện Viêm phổi từ ảnh X-Quang](https://github.com/ankkun13/chest-xray-pneumonia-detection)
+- Mở **Docker Desktop**. Nếu chưa có, hãy truy câp [Docker](https://www.docker.com/products/docker-desktop/) để tải xuống.
+```bash
+git clone https://github.com/ankkun13/chest-xray-pneumonia-detection.git
+cd chest-xray-pneumonia-detection
+docker compose up --build
+```
 
 ---
 
