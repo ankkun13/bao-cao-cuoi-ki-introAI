@@ -90,8 +90,8 @@ Dự án hỗ trợ:
 ---
 
 ## 🤝 Đóng góp
-Giáo viên: Hoàng Anh Đức - MIM-HUS
-Cử nhân: Phạm Ngọc Hải - K66A5
+- Giáo viên: Hoàng Anh Đức - MIM-HUS
+- Cử nhân: Phạm Ngọc Hải - K66A5
 
 ---
 
