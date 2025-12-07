@@ -1,0 +1,10 @@
+opencv-python
+matplotlib
+seaborn
+opendatasets
+torch
+torchvision
+torchaudio
+tqdm
+scikit-learn
+numpy
